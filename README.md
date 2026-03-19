@@ -1,6 +1,6 @@
 # OverlayPrompt
 
-![Status](https://img.shields.io/badge/status-stable-bright/badge/platform-Windows-lightsparente sempre no topo da tela, sobrepondo qualquer aplicação aberta.  
+Aplicativo criado como um aviso, sempre no topo da tela, sobrepondo qualquer aplicação aberta.  
 A mensagem funciona como um lembrete visual rápido e pode ser fechada com um único clique.
 
 A janela usa transparência por cor e permanece sempre em primeiro plano, funcionando como um overlay leve, direto e portátil.
