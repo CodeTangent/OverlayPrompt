@@ -49,12 +49,20 @@ python -m PyInstaller --onefile --windowed OverlayPrompt.py
 
 Isso gera um binário único, similar a um flatpak portátil, que dispensa instalação e qualquer dependência adicional.
 
-📁 Estrutura do projeto:
-OverlayPrompt/
-└── dist/
-    └── separa_badge.exe   (gerado automaticamente)
+## 📁 Estrutura do projeto
 
-📦 Requisitos
+```
+OverlayPrompt/
+├── docs/
+│   └── demo.png
+├── OverlayPrompt.py
+└── dist/
+    └── separa_badge.exe
+
+```
+
+## 📦 Requisitos
+
 Nenhum e sem necessidade de dependências externas.
 O executável gerado funciona sem Python e sem bibliotecas adicionais.
 
