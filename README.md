@@ -8,7 +8,16 @@ A janela usa transparência por cor e permanece sempre em primeiro plano, funcio
 ---
 
 ## 📸 **Preview**
-_(adicione um screenshot ou GIF no futuro)_
+
+<p align="center">
+    <img width="600" height="400" alt="demo" src="https://github.com/user-attachments/assets/aa41a1c0-02db-4f87-8f03-71785d57b9fd" />
+</p>
+
+<p align="center">
+    <em>Mockup ilustrando o alerta exibido sobre uma tela genérica.</em>
+</p>
+
+---
 
 ## ✨ **Funcionalidades**
 - Janela sempre no topo (**always-on-top**)  
