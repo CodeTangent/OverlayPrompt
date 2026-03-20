@@ -35,7 +35,7 @@ Após gerar o executável:
 Este projeto foi empacotado como standalone usando:
 
 ```bash
-python -m PyInstaller --onefile --windowed separa_badge.py
+python -m PyInstaller --onefile --windowed OverlayPrompt.py
 ```
 
 Isso gera um binário único, similar a um flatpak portátil, que dispensa instalação e qualquer dependência adicional.
